@@ -1,1 +1,3 @@
-# WRNN-1
+# RW(robot walker)
+
+Walking platform design for further upgrades
